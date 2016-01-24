@@ -7,6 +7,7 @@ class Solution(object):
         """
         nums = [str(i) for i in range(1,n+1)]
         self.ans, temp = [], []
+	#to see if the elements were used
         visit = [0]*n
         self.dfs(nums, n, 0, temp, visit)
         return self.ans[k-1]
@@ -17,8 +18,10 @@ class Solution(object):
                 visit[i] = 1
                 temp.append(nums[i])
                 if p<n-1:
+		    #continue dfs
                     self.dfs(nums, n, p+1, temp, visit)
                 else:
+		    #output the result to the and
                     self.ans.append(''.join(temp))
                 visit[i] = 0
                 temp.pop()
