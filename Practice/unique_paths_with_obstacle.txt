@@ -1,0 +1,32 @@
+class Solution(object):
+    def uniquePathsWithObstacles(self, obstacleGrid):
+        """
+        :type obstacleGrid: List[List[int]]
+        :rtype: int
+        """
+        m = len(obstacleGrid)
+        n = len(obstacleGrid[0])
+
+	#initialize the array
+        arr = [[0]*n for i in range(m)]
+
+	#fill the table without the obstacle
+        for i in range(n):
+            if obstacleGrid[0][i] == 0:
+                arr[0][i] = 1
+            else:
+                break
+        for i in range(m):
+            if obstacleGrid[i][0] == 0:
+                arr[i][0] = 1
+            else:
+                break
+        for i in range(1, m):
+            for j in range(1, n):
+                if obstacleGrid[i][j] == 1:
+                    arr[i][j] = 0
+                else:
+                    arr[i][j] = arr[i-1][j] + arr[i][j-1]
+
+	#output the result
+        return arr[m-1][n-1]
