@@ -1,0 +1,25 @@
+class Solution(object):
+    def mySqrt(self, x):
+        """
+        :type x: int
+        :rtype: int
+        """
+        #some easy judge
+        if x <= 0:
+            return 0
+        elif x < 4:
+            return 1
+        #begin binary search
+        end = x
+        begin = 0
+        mid = (begin + end) // 2
+        while begin < end:
+            if mid*mid <= x and x < (mid+1)*(mid+1):
+                return mid
+            elif x < mid*mid:
+                end = mid - 1
+                mid = (begin + end) // 2
+            else:
+                begin = mid + 1
+                mid = (begin + end) // 2
+        return mid
