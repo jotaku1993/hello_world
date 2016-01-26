@@ -1,0 +1,70 @@
+class Solution(object):
+    def fullJustify(self, words, maxWidth):
+        """
+        :type words: List[str]
+        :type maxWidth: int
+        :rtype: List[str]
+        """
+        l = len(words)
+        if l == 0:
+            return []
+        m = maxWidth
+        if m == 0:
+            return ['']
+        templ = 0
+        temp = []
+        ans = []
+        flag = 0
+        for i in range(l):
+            #for setting the initialization
+            if flag == 1:
+                templ = len(words[i-1]) + 1
+                temp.append(words[i-1])
+            templ += len(words[i])
+            #if new word can be added?
+            if templ <= m:
+                flag = 0
+                temp.append(words[i])
+                if templ == m:
+                    ans.append(' '.join(temp))
+                    temp = []
+                    templ = 0
+                else:
+                    templ += 1
+            #new word can not be added so output to the ans
+            else:
+                n = len(temp)
+                #if only one word, use another output
+                if n != 1:
+                    tl = 0
+                    for j in range(n):
+                        tl += len(temp[j])
+                    rest = m - tl
+                    more = (rest - (n-1)) // (n-1)
+                    space = ' '
+                    for j in range(more):
+                        space += ' '
+                    add = rest % (n-1)
+                    for j in range(add):
+                        temp[j] += ' '
+                    ans.append(space.join(temp))
+                else:
+                    rest = m - len(temp[0])
+                    space = ''
+                    for j in range(rest):
+                        space += ' '
+                    ans.append(temp[0]+space)
+                temp = []
+                templ = 0
+                flag = 1
+        if flag == 1:
+            temp.append(words[i])
+        #final line should be considered separately
+        if len(temp) > 0:
+            front = ' '.join(temp)
+            rest = m - len(front)
+            space = ''
+            for i in range(rest):
+                space += ' '
+            ans.append(front+space)
+        return ans
