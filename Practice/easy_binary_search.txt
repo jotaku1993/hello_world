@@ -1,27 +1,30 @@
-arr = [2,4,6,1,0,-3]
-target = 2
+arr = [10,9,5,3,11,34,5,23,2]
+target = 25
 
-arr.sort()
-l = len(arr)
-left = 0
-right = l-1
-mid = (left + right) // 2
-ans = []
-flag = 0
-while left <= right:
-    if arr[mid] == target:
-        ans.append(True)
-        ans.append(mid)
-        flag = 1
-        break
-    elif arr[mid] < target:
-        left = mid + 1
-        mid = (left + right) // 2
-    else:
-        right = mid - 1
-        mid = (left + right) // 2
-if flag == 0:
+#can only accept the arr without repeat numbers
+def binarySearch(arr, target):
+    arr.sort()
+    l = len(arr)
+    left = 0
+    right = l-1
+    mid = (left + right) // 2
+    ans = []
+    while left <= right:
+        if arr[mid] == target:
+            ans.append(True)
+            ans.append(mid)
+            return ans
+            break
+        elif arr[mid] < target:
+            left = mid + 1
+            mid = (left + right) // 2
+        else:
+            right = mid - 1
+            mid = (left + right) // 2
     ans.append(False)
     ans.append(None)
+    return ans
+
+ans = binarySearch(arr, target)
 print(ans)
 
