@@ -1,0 +1,31 @@
+class Solution(object):
+    def searchMatrix(self, matrix, target):
+        """
+        :type matrix: List[List[int]]
+        :type target: int
+        :rtype: bool
+        """
+        #get the length of row and column
+	m = len(matrix)
+        if m == 0:
+            return False
+        n = len(matrix[0])
+        if n == 0:
+            return False
+        #begin binary search
+	begin, end = 0, m*n-1
+        mid = (begin + end) // 2
+        while begin <= end:
+            #calculate the position of mid
+	    i = mid // n
+            j = mid % n
+            if matrix[i][j] == target:
+                return True
+            elif matrix[i][j] < target:
+                begin = mid + 1
+                mid = (begin + end) // 2
+            else:
+                end = mid - 1
+                mid = (begin + end) // 2
+        return False
+        
