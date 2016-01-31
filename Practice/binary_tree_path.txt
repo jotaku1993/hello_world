@@ -1,0 +1,25 @@
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution(object):
+    def binaryTreePaths(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[str]
+        """
+        self.ans = []
+        if root is not None:
+            self.add(root, str(root.val))
+        return self.ans
+        
+    def add(self, root, temp):
+        if root.left is None and root.right is None:
+            self.ans.append(temp)
+        if root.left is not None:
+            self.add(root.left, temp+'->'+str(root.left.val))
+        if root.right is not None:
+            self.add(root.right, temp+'->'+str(root.right.val))
