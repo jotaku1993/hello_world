@@ -1,0 +1,29 @@
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution(object):
+    def hasPathSum(self, root, sum):
+        """
+        :type root: TreeNode
+        :type sum: int
+        :rtype: bool
+        """
+        if root is None:
+            return False
+        self.ans = []
+        self.getSum(root, root.val)
+        #to judge if sum equals to the path sum
+        return (sum in self.ans)
+        
+    def getSum(self, root, sum):
+        #take down the sum, but not a good idea
+        if root.left is None and root.right is None:
+            self.ans.append(sum)
+        if root.left is not None:
+            self.getSum(root.left, sum+root.left.val)
+        if root.right is not None:
+            self.getSum(root.right, sum+root.right.val)
