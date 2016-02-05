@@ -1,0 +1,39 @@
+class Solution(object):
+    def isPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        l = len(s)
+        if l <= 1:
+            return True
+        left = 0
+        right = l-1
+        dif = ord('a') - ord('A')
+        while left <= right:
+            #leave the numbers and letters, delete other things
+            if  ord(s[left]) < ord("0") or ( ord(s[left]) > ord("9") and ord(s[left])<ord("A") ) or ( ord(s[left]) > ord("Z") and ord(s[left]) < ord("a") ) or ord(s[left])>ord("z"):
+                left += 1
+                continue
+            if ord(s[right]) < ord("0") or ( ord(s[right]) > ord("9") and ord(s[right])<ord("A") ) or ( ord(s[right]) > ord("Z") and ord(s[right]) < ord("a") ) or ord(s[right])>ord("z"):
+                right -= 1
+                continue
+            #if numbers, makesure that numbers are deal in the different way of letters
+            if ord(s[left]) <= ord("9") and ord(s[right]) <= ord("9"):
+                if ord(s[left]) == ord(s[right]):
+                    left += 1
+                    right -= 1
+                    continue
+                else:
+                    return False
+            #deal with letters
+            elif ord(s[left]) > ord("9") and ord(s[right]) > ord("9"):
+                if ord(s[left]) == ord(s[right]) or abs(ord(s[left]) - ord(s[right])) == dif:
+                    left += 1
+                    right -= 1
+                    continue
+                else:
+                    return False
+            else:
+                return False
+        return True
