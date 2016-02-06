@@ -1,0 +1,48 @@
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+class Solution(object):
+    def sortList(self, head):
+        """
+        :type head: ListNode
+        :rtype: ListNode
+        """
+        if head is None or head.next is None:
+            return head
+        #break the list into two
+        mid = self.getMid(head)
+        nxt = mid.next
+        mid.next = None
+        #recursion of merge sort
+        return self.mergeList( self.sortList(head), self.sortList(nxt) )
+        
+        #get the mid point of the list, using fast and slow pointers
+    def getMid(self, head):
+        fast, slow = head, head
+        while fast.next is not None and fast.next.next is not None:
+            fast, slow = fast.next.next, slow.next
+        return slow
+        
+        #merge the lists
+    def mergeList(self, fir, sec):
+        nHead = ListNode(0)
+        temp = nHead
+        #compare until one goes to the end
+        while fir and sec:
+            if fir.val < sec.val:
+                temp.next = fir
+                fir = fir.next
+            else:
+                temp.next = sec
+                sec = sec.next
+            temp = temp.next
+        #add the rest to the list
+        if fir:
+            temp.next = fir
+        else:
+            temp.next = sec
+        return nHead.next
+        
