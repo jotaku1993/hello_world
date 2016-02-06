@@ -1,0 +1,46 @@
+arr = [1,2,3,5,6,4,7,9,8,11,34,54,23,6,77,8,0,-2,-4,-6,7,23,34]
+print(arr)
+
+#use temp here to avoid the reduntant waste of space to build temp every recursion
+def mergeList(arr, temp, leftp, rightp, right):
+	left = rightp - 1
+	tempp = leftp
+	total = right - leftp + 1
+	while leftp <= left and rightp <= right:
+		if arr[leftp] < arr[rightp]:
+			temp[tempp] = arr[leftp]
+			leftp += 1
+		else:
+			temp[tempp] = arr[rightp]
+			rightp += 1
+		tempp += 1
+	while leftp <= left:
+		temp[tempp] = arr[leftp]
+		leftp += 1
+		tempp += 1
+	while rightp <= right:
+		temp[tempp] = arr[rightp]
+		rightp += 1
+		tempp += 1
+	for i in range(total):
+		arr[right] = temp[right]
+		right -= 1
+
+def sortList(arr, temp, left, right):
+	if left < right:
+		mid = (left + right) // 2
+		sortList(arr, temp, left, mid)
+		sortList(arr, temp, mid+1, right)
+		mergeList(arr, temp, left, mid+1, right)
+
+def mergeSort(arr):
+	l = len(arr)
+	if l <= 1:
+		return
+	left, right = 0, l-1
+	temp = [0]*l
+	sortList(arr, temp, left, right)
+	return arr
+
+ans = mergeSort(arr)
+print(ans)
