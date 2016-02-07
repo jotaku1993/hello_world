@@ -1,0 +1,46 @@
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution(object):
+    def sortedArrayToBST(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: TreeNode
+        """
+        #special case judgement
+        l = len(nums)
+        if l == 0:
+            return None
+        if l == 1:
+            return TreeNode(nums[0])
+        #find the middle point and set it to the head
+        left, right = 0, l-1
+        mid = (l-1) // 2 
+        nHead = TreeNode(0)
+        node = TreeNode(nums[mid])
+        nHead.next = node
+        #go to the left and right
+        node.left = self.add(left, mid-1, nums)
+        node.right = self.add(mid+1, right, nums)
+        
+        return nHead.next
+        
+    def add(self, left, right, nums):
+        #find the l
+        l = right - left + 1
+        #if go to the leaf or the None
+        if l == 0:
+            return None
+        if l == 1:
+            return TreeNode(nums[left])
+        #else, build the left and right
+        mid = left + (l-1) // 2
+        node = TreeNode(nums[mid])
+        node.left = self.add(left, mid-1, nums)
+        node.right = self.add(mid+1, right, nums)
+        
+        return node
