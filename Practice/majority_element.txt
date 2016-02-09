@@ -1,0 +1,21 @@
+class Solution(object):
+    def majorityElement(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        #use moore voting algorithm
+        l = len(nums)
+        if l <= 2:
+            return nums[0]
+        cur, count = 0, 1
+        for i in range(1,l):
+            #every time delete two number, the left will be the majority
+            if nums[i] == nums[cur]:
+                count += 1
+            else:
+                count -= 1
+            if count == 0:
+                cur = i
+                count = 1
+        return nums[cur]
