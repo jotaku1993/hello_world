@@ -1,0 +1,22 @@
+class Solution(object):
+    def getRow(self, rowIndex):
+        """
+        :type rowIndex: int
+        :rtype: List[int]
+        """
+        if rowIndex <= 0:
+            return [1]
+        ans = [0]*(rowIndex+1)
+        ans[0], ans[rowIndex] = 1, 1
+        for i in range(1, rowIndex):
+            a, b = 1, 1
+            n, m = rowIndex, rowIndex-i
+            while n>i:
+                a *= n
+                n -= 1
+            while m:
+                b *= m
+                m -= 1
+            #print(a,b,rowIndex)
+            ans[i] = a//b
+        return ans
