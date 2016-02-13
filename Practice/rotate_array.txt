@@ -1,0 +1,23 @@
+class Solution(object):
+    def rotate(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: void Do not return anything, modify nums in-place instead.
+        """
+        k = k % len(nums)
+        if k == 0:
+            return
+        #reverse first part
+        left, right = 0, len(nums)-1-k
+        while left<right:
+            nums[left], nums[right] = nums[right], nums[left]
+            left, right = left+1, right-1
+        #reverse second part
+        left, right = len(nums)-k, len(nums)-1
+        while left<right:
+            nums[left], nums[right] = nums[right], nums[left]
+            left, right = left+1, right-1
+        #reverse all and get the result
+        nums.reverse()
+        return
