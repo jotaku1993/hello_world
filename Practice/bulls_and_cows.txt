@@ -1,0 +1,31 @@
+class Solution(object):
+    def getHint(self, secret, guess):
+        """
+        :type secret: str
+        :type guess: str
+        :rtype: str
+        """
+        #use a, b to record the bulls and cows
+        a, b = 0, 0
+        #use hashtable to record the occur times, the rest array to record the rest elements
+        hass = {}
+        rest = []
+        for i in range(len(secret)):
+            if secret[i] == guess[i]:
+                a += 1
+            else:
+                if secret[i] not in hass:
+                    hass[secret[i]] = 1
+                else:
+                    #increase the occurence times
+                    hass[secret[i]] += 1
+                rest.append(guess[i])
+        for i in range(len(rest)):
+            if rest[i] in hass:
+                b += 1
+                #decrease the occurence times
+                hass[rest[i]] -= 1
+                #if goes to 0, delete it from the hashtable
+                if hass[rest[i]] == 0:
+                    del hass[rest[i]]
+        return str(a) + 'A' + str(b) + 'B'
