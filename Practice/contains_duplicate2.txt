@@ -1,0 +1,20 @@
+class Solution(object):
+    def containsNearbyDuplicate(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: bool
+        """
+        if k == 0:
+            return False
+        l = len(nums)
+        if l <= 1:
+            return False
+        temp = dict()
+        for i in range(l):
+            pre = temp.get(nums[i])
+            if pre >= 0 and i - pre <= k:
+                return True
+            #update the hash table every time
+            temp[nums[i]] = i
+        return False
