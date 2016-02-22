@@ -1,0 +1,27 @@
+class Solution(object):
+    def wordPattern(self, pattern, str):
+        """
+        :type pattern: str
+        :type str: str
+        :rtype: bool
+        """
+        #spilt the str by space and save in the array
+        judge = str.split(' ')
+        if len(pattern) != len(judge):
+            return False
+        #use two hashtable to record the map relations
+        hass, has2 = {}, {}
+        for i in range(len(pattern)):
+            #make pairs
+            if pattern[i] not in hass:
+                hass[pattern[i]] = judge[i]
+            else:
+                if hass[pattern[i]] != judge[i]:
+                    return False
+            #make sure no any two map to one element
+            if judge[i] not in has2:
+                has2[judge[i]] = pattern[i]
+            else:
+                if has2[judge[i]] != pattern[i]:
+                    return False
+        return True
