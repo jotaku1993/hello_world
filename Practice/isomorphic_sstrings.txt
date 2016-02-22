@@ -1,0 +1,29 @@
+class Solution(object):
+    def isIsomorphic(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
+        #use two hashtable to record
+        hass = {}
+        has2 = {}
+        for i in range(len(s)):
+            #for the first hastable, just record the map
+            if s[i] not in hass:
+                if t[i] in hass and hass[t[i]] == t[i]:
+                    return False
+                else:
+                    hass[s[i]] = t[i]
+            else:
+                if hass[s[i]] != t[i]:
+                    return False
+            #for the second hashtable, to judge if any two map to same char
+            if t[i] not in has2:
+                has2[t[i]] = s[i]
+            else:
+                if has2[t[i]] == s[i]:
+                    pass
+                else:
+                    return False
+        return True
