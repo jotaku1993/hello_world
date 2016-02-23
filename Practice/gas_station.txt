@@ -1,0 +1,20 @@
+class Solution(object):
+    def canCompleteCircuit(self, gas, cost):
+        """
+        :type gas: List[int]
+        :type cost: List[int]
+        :rtype: int
+        """
+        #if total gas is not enough, impossible to travel around
+        if sum(gas)<sum(cost):
+            return -1
+        l = len(gas)
+        suma = 0
+        start = 0
+        for i in range(l):
+            suma += gas[i]-cost[i]
+            #every time if the gas sum is negative, restart
+            if suma < 0:
+                start = i+1
+                suma = 0
+        return start
