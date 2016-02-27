@@ -1,0 +1,41 @@
+# definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
+
+class Solution(object):
+    def levelOrder(self, root):
+        """
+        :type root: TreeNode
+        :rtype: List[List[int]]
+        """
+        if root is None:
+            return []
+        #stack, but actually a queue
+        stack = []
+        #first element is root, second element is layer of root
+        stack.append([root, 0])
+        
+        ans = []
+        line = []
+        layer = 0
+        while len(stack) != 0:
+            for i in range(len(stack)):
+                temp = stack.pop(0)
+                #find the new root and put in the queue
+                if temp[0].left:
+                    stack.append([temp[0].left, temp[1]+1])
+                if temp[0].right:
+                    stack.append([temp[0].right, temp[1]+1])
+                #if in the same layer or goto next layer
+                if temp[1] == layer:
+                    line.append(temp[0].val)
+                else:
+                    ans.append(line)
+                    line = []
+                    layer += 1
+                    line.append(temp[0].val)
+        ans.append(line)
+        return ans
