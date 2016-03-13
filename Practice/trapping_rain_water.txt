@@ -1,0 +1,23 @@
+class Solution(object):
+    def trap(self, height):
+        """
+        :type height: List[int]
+        :rtype: int
+        """
+        l = len(height)
+        if l <= 0:
+            return 0
+        left, right = 0, l-1
+        ans = 0
+        secH = 0
+        #scan the height from two side with the help of secH
+        while left<right:
+            if height[left] < height[right]:
+                secH = max(secH, height[left])
+                ans += secH - height[left]
+                left += 1
+            else:
+                secH = max(secH, height[right])
+                ans += secH - height[right]
+                right -= 1
+        return ans
