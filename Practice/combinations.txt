@@ -1,0 +1,25 @@
+class Solution(object):
+    def combine(self, n, k):
+        """
+        :type n: int
+        :type k: int
+        :rtype: List[List[int]]
+        """
+        if k == 0:
+            return [[]]
+        if k > n:
+            return []
+        
+        self.ans = []
+        #temp = []
+        self.dfs([], 1, n, k)
+        return self.ans
+        
+    def dfs(self, temp, p, n, k):
+        if len(temp) == k:
+            self.ans.append(temp[:])
+            return
+        for i in range(p, n+1):
+            temp.append(i)
+            self.dfs(temp, i+1, n, k)
+            temp.pop()
