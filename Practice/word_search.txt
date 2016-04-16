@@ -1,0 +1,69 @@
+class Solution(object):
+    def exist(self, board, word):
+        """
+        :type board: List[List[str]]
+        :type word: str
+        :rtype: bool
+        """
+        m = len(board)
+        if m == 0:
+            return False
+        n = len(board[0])
+        #use stack visited to record if used?
+        visited = []
+        ans = False
+        for i in range(m):
+            for j in range(n):
+                if board[i][j] == word[0]:
+                    visited.append([i,j])
+                    if self.dfs(i, j, m, n, word, board, 0, visited):
+                        return True
+                    visited.pop()
+        return False
+        
+    #i&j:the point now visiting;
+    #m&n:the boundry
+    #level:the search depth of word
+    def dfs(self, i, j, m, n, word, board, level, visited):
+        #print i,j,level,visited
+        #if out of boundry, return flase
+        if i<0 or i>m-1 or j<0 or j>n-1:
+            return False
+        #if pair to the same char
+        if board[i][j] == word[level]:
+            #find all the word, return True
+            if len(word)-1 == level:
+                return True
+            else:
+                #keep on search
+                #remember to pop every time or go wrong
+                if [i+1, j] not in visited:
+                    visited.append([i+1,j])
+                    if self.dfs(i+1, j, m, n, word, board, level+1, visited):
+                        visited.pop()
+                        return True
+                    visited.pop()
+                    
+                if [i-1, j] not in visited:
+                    visited.append([i-1,j])
+                    if self.dfs(i-1, j, m, n, word, board, level+1, visited):
+                        visited.pop()
+                        return True
+                    visited.pop()
+                    
+                if [i, j+1] not in visited:
+                    visited.append([i,j+1])
+                    if self.dfs(i, j+1, m, n, word, board, level+1, visited):
+                        visited.pop()
+                        return True
+                    visited.pop()
+                    
+                if [i, j-1] not in visited:
+                    visited.append([i,j-1])
+                    if self.dfs(i, j-1, m, n, word, board, level+1, visited):
+                        visited.pop()
+                        return True
+                    visited.pop()
+        else:
+            return False
+            
