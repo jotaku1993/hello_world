@@ -1,0 +1,28 @@
+class Solution(object):
+    def largestRectangleArea(self, heights):
+        """
+        :type heights: List[int]
+        :rtype: int
+        """
+        l = len(heights)
+        if l == 0:
+            return 0
+        elif l == 1:
+            return heights[0]
+        
+        ans = 0
+        stack = []
+        #use monotone stack
+        for i in range(l+1):
+            #if not able to maintain monotone stack, begin algorithm
+            while len(stack)>0 and (l==i or heights[stack[-1]]>=heights[i]):
+                tmp = stack.pop()
+                #here is the lowest one
+                if len(stack) == 0:
+                    ans = max(ans, heights[tmp]*i)
+                #for others, expand it to both sides
+                else:
+                    ans = max(ans, heights[tmp]*(i-1-stack[-1]))
+            #if able to maintain monotone stack, keep on
+            stack.append(i)
+        return ans
