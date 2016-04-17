@@ -1,0 +1,12 @@
+class Solution(object):
+    def grayCode(self, n):
+        """
+        :type n: int
+        :rtype: List[int]
+        """
+        ans = []
+        #gray code formula: n^(n>>1)
+        #The operator >> is shift right. The operator ^ is exclusive or
+        for i in range(2**n):
+            ans.append(i^(i>>1))
+        return ans
