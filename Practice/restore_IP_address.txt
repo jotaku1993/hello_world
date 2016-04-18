@@ -1,0 +1,23 @@
+class Solution(object):
+    def restoreIpAddresses(self, s):
+        """
+        :type s: str
+        :rtype: List[str]
+        """
+        l = len(s)
+        if l < 4:
+            return []
+        
+        ans = []
+        #no zero at the beginning and value smaller than 256
+        vaild = lambda x: str(int(x)) == x and int(x) <= 255
+        for i in range(1,4):
+            for j in range(1,4):
+                for k in range(1,4):
+                    #go through all intervals
+                    tmp = [s[0:i], s[i:i+j], s[i+j:i+j+k], s[i+j+k:]]
+                    #if some empty, ignore it 
+                    if '' not in tmp:
+                        if vaild(tmp[0]) and vaild(tmp[1]) and vaild(tmp[2]) and vaild(tmp[3]):
+                            ans.append('.'.join(tmp))
+        return ans
