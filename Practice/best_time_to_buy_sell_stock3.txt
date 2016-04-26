@@ -1,0 +1,26 @@
+class Solution(object):
+    def maxProfit(self, prices):
+        """
+        :type prices: List[int]
+        :rtype: int
+        """
+        l = len(prices)
+        if l <= 0:
+            return 0
+        #go through the prices from left and save in first array
+        buyprice = prices[0]
+        profit = 0
+        first = [0]*l
+        for i in range(l):
+            buyprice = min(buyprice, prices[i])
+            profit = max(profit, prices[i]-buyprice)
+            first[i] = profit
+        #go through the prices from right and use the first to get the max profit
+        sellprice = prices[l-1]
+        profit = 0
+        ans = 0
+        for i in range(l-1, -1, -1):
+            sellprice = max(sellprice, prices[i])
+            profit = max(profit, sellprice-prices[i])
+            ans = max(ans, profit+first[i])
+        return ans
