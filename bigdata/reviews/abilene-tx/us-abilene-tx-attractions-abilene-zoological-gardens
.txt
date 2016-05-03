@@ -1,0 +1,24 @@
+<span itemprop="ratingValue">3.8</span>
+<span itemprop="ratingCount">14 </span>
+<div class="category-list">
+<ul>
+<li><span>Government Building</span></li>
+<li><span>Other Outdoor Place</span></li>
+<li><span>Community Park</span></li>
+<li><span>Nature Reserve</span></li>
+<li><span>Zoo</span></li>
+<li><span>Children's Attraction</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>There's always something new to see and do at the Abilene Zoo! Abilene's #1 Attraction! Discover the wonderful world of wildlife at the Abilene Zoo! Home to over 600 animals from around the globe, a visit to the Abilene Zoo is filled with fun and excitement for the entire family.  Check out the King Cobra at the Creepy Crawler Center, come eye to eye with giraffes on the giraffe bridge, and stroll through Elm Creek Backyard, home to dozens of Texas species.</p>
+<p>You can treat yourself to a hot dog and a beverage at the Watering Hole and select a souvenir of your visit at the zoo store.  Become a member and enjoy a year of free zoo admission. Take part in one of our many educational classes or programs. There’s always something new to see and do at the Abilene Zoo! </p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Even though in general terms i am against the zoo, since i prefer to see the animals free in nature, nevertheless the Abilene Zoo is one of the best zoos i have seen in small towns.</p>
+<p>Certainly it is an ideal place for families to visit it during the afternoon hours and for kids to see from close how wild animals look like. There is a great range of animals, reptiles and birds, including some scary ones such as lions, tigers, and bears. But i have to admit that giraffes are the main attraction of this place. Really awesome and beautiful animals and it is a real pleasure to feed them with crackers! The main advantage of this zoo is that it is clean and animals are kept in relatively big spaces.</p>
+<p></p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>We love the Abilene zoo! They have been working really hard on adding new animals and exhibits! On the weekends if you get there before 1pm you can feed the giraffes crackers for only $1! Great place for everyone!</p>
+</div>

@@ -1,0 +1,13 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>Library</span></li>
+<li><span>Monument</span></li>
+<li><span>Military Site</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The mission of the Vietnam Center at Texas Tech University is to support and encourage research and education regarding all aspects of the American Vietnam experience; promoting a greater understanding of this experience and the peoples and cultures of Southeast Asia. Its functions are threefold: support for the Vietnam Archive and the collection and preservation of pertinent historical source material; promotion of education through exhibits, classroom instruction, educational programs, and publications; and encouragement of related scholarship through organizing and hosting conferences and symposia, academic, educational, and cultural exchanges, and the publishing of scholarly research. Ogden Williams Collection [VAN013116] (Ogden Williams Collection [VAN013116]) The Vietnam Center seeks to provide a forum for all points of view and for all topics relating to Indochina, particularly - but not limited to - the American military involvement there. </p>
+<p>At our conferences and symposia, we encourage the presentation of papers by veterans and others who directly participated in and supported wartime events as well as by individuals who opposed the war. We encourage participation by our former allies in South Vietnam but also offer the same participation to those who supported the government in Hanoi. Similarly, we place equal importance upon preserving records relating to all aspects of the Vietnam War. It is as important to us to preserve the records of US veterans, military and civilian, who served in Southeast Asia as well as civilians active on the homefront to include the antiwar movement. We want to preserve a complete history of the war. To do otherwise would be a disservice to history.</p>
+</div>

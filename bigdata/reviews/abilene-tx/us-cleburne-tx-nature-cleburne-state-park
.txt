@@ -1,0 +1,23 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>Forest</span></li>
+<li><span>Campground</span></li>
+<li><span>Fishing Spot</span></li>
+<li><span>Cycling Area</span></li>
+<li><span>Hiking Area</span></li>
+<li><span>Nature Reserve</span></li>
+<li><span>Natural Feature</span></li>
+<li><span>City Park</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Cleburne State Park mountain bike trails offer 5.5 miles of beautiful scenery with a variety of challenges for all experience levels. The terrain on the trail is as diverse as the hills. You will experience treacherous downhills, fast smooth flats, and everything in between. The technical and wooded trails form an entire loop that has made this trail a favorite for mountain bikers in training or those who enjoy a challenging ride. The trail will test your skills and endurance and is well worth your time!</p>
+<p>Fishing and boating the clear blue waters of Cedar Lake is a wonderful way to spend the day with your family. Note: Boats may not create any wake on this lake and personal watercraft (i.e. jet skis, seadoos, etc.) are not allowed. Currently no ice, groceries, food or camping supplies are available within the park. </p>
+<p>The park has a variety of campsites, including full hook-up sites, a Primitive Area for youth groups, and screened shelters. Group facilities include, a Group Camp with a dining hall and 2-barracks that can hold up to 48-people overnight, and the new "Cedar Lodge" group hall with an attached kitchen, outdoor fireplace and a recreation area.
+</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>This place is absolutely gorgeous! There's lots to see and the foliage is magnificent. There are long and short trails depending on your hiking preference and a few lookout points with a spectacular view. Did</p>
+</div>

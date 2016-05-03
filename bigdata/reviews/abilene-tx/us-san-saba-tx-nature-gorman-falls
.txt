@@ -1,0 +1,27 @@
+<span itemprop="ratingValue">4.5</span>
+<span itemprop="ratingCount">8 </span>
+<div class="category-list">
+<ul>
+<li><span>Natural Feature</span></li>
+<li><span>Hiking Area</span></li>
+<li><span>Scenic Point</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>There were many times in my life that i was impressed by the magic of 'mother' nature. While touring Texas last summer i heard about the amazing Gorman Falls, a 60-foot waterfall that with its mist creates a rather controversial, to the nearby desert landscapes, exotic paradise!</p>
+<p>Even though i have visited many waterfalls in Texas, i can easily say that Gorman Falls is the best and most spectacular. But, unfortunately, it can be seen only by fit and rather experienced hikers, since the 1.5 mile trail that leads to the falls is rather challenging and even kinda dangerous in some parts, therefore don't take kids or elderly people with you.</p>
+<p>Fortunately i went there in the beginning of the summer and there was plenty of water that enhanced the already spectacular view. Avoid visiting the place during the peak of the dry summer season, cause the temperatures can get very high and the hiking conditions very unpleasant. Take with you water coolers, because you will definitely need to hydrate yourselves and of course a sunscreen, comfy clothes and hiking boots are a must!</p>
+<p>But, believe me....when you will get there....the views and the unique landscape will make you feel like a pioneer explorer !</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The most dramatic site in Colorado Bend State Park and the most popular with visitors is Gorman Falls, a 60-foot waterfall tumbling over a cliff and misting a stand of maiden hair ferns and other lush, tropical vegetation.Gorman is one of the few waterfalls that actually gets bigger over time instead of diminishing. The same quality that makes that possible also makes the area extremely sensitive.</p>
+<p>These falls are comprised solely of travertine, otherwise known as calcium deposits. The top layers of the deposit are extremely fragile and are easily damaged. </p>
+<p>Colorado Bend State Park is a 5,328.3-acre (2,156 ha) Texas state park in the Hill Country region. It was purchased in 1984 and opened to public in 1987. It is representative of the karst features typically seen in the Hill Country, with many sinkholes, caves, and springs.</p>
+<p>The Spicewood Springs trail is one of the hiking trails in the park with numerous creek crossings. The Gorman Creek trail is divided into a blue-marker loop and a yellow-marker loop, with dry chaparral terrain. The highlights of the park trails are a travertine creek on the east, and a large waterfall with caves on the west.A protected portion of the park is open by guided tour only. The Gorman Spring and a couple of other springs feed Gorman Creek, which then descends a spectacular 65 feet (20 m) feet forming what is known as Gorman Falls. The tour is a 1.5-mile (2.4 km) round trip trail leading to the spectacular waterfall, which is formed by fern covered Travertine. The self-guided Gorman Spring trail and the trail to the waterfall is now open to the public during regular park hours. There are also many wild cave tour opportunities, ranging in difficulties from walking to crawling.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>So beautiful! The hiking was fun, nature was absolutely beautiful! But camping options weren't the best in my opinion.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>you must hike about 1.2 miles to the falls or they have a guided tour Saturdays @2pm. still a really nice place.</p>
+</div>

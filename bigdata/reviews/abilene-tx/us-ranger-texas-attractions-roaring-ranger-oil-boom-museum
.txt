@@ -1,0 +1,19 @@
+<span itemprop="ratingValue">4.0</span>
+<span itemprop="ratingCount">2 </span>
+<div class="category-list">
+<ul>
+<li><span>Tourist Attraction</span></li>
+<li><span>Other Historical</span></li>
+<li><span>Historic Site</span></li>
+<li><span>Museum</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>     Housed in the 1923 Texas and Pacific Railway's train depot, the museum tells the town’s story after oil was discovered. After a drought hit farmers in 1917, town leaders encouraged W.K. Gordon, vice president of the Texas and Pacific Coal Company in nearby Thurber, to explore for oil locally. Gordon’s second wildcatter, the McCleskey No. 1 well, blew in, flowing 1,700 barrels per day. Ranger's population swelled almost overnight from less than 1,000 to more than 30,000. The boom ended in 1921 when the wells dried up, but the Ranger discovery well opened the door to oil fields in West Texas. The depot museum uses artifacts, historic photos and a vintage drilling rig to retell the fascinating saga.      </p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Only open on Saturdays. Located in a near ghost town, the people are straight out of a time warp. We were walking around, when all of a sudden an old guy in a red pick up truck asked us "you guys looking for some pussy?"  We said no, and then he said "don't tell me you let guys suck on ya?"  We bolted back to our RV and got the hell out of that place.  Unless you've got a death wish, keep it moving!</p>
+</div>
+<p class="review-text">
+        omg Im dying laughing...thats a great road trip story...now its a must see...
+      </p>

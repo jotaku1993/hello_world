@@ -1,0 +1,12 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>History Museum</span></li>
+<li><span>Military Site</span></li>
+<li><span>Museum</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The primary mission of the United States Twelfth Armored Division Memorial Museum will be to serve as a display and teaching museum for the study of World War II and its impact on the American people. The Museum will accomplish its mission under direction of the Museum Board of Directors through exhibition and education programs using the Museum's owned and borrowed Historical Collection as a resource. This collection is chiefly 12th Armored Division World War II archives, memorabilia, and oral histories, along with selected equipment and material loaned or donated by others. </p>
+</div>

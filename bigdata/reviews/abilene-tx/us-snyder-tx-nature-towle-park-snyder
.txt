@@ -1,0 +1,15 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>City Park</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Towle Park is the largest community park in Snyder and is located on South College Avenue. Park features include multiple picnic areas, pavilion, skate park, kiddy park, sand volleyball and basketball courts, fishing, and swimming. Towle Park is the primary location for locals and visitors to use as a “gathering” spot for events, which includes the annual Fourth of July Celebration.</p>
+<p>Towle Park is also home to the frequently visited Prairie Dog Town, a habitat refuge for one of nature’s wild creatures, the prairie dog. This unique “town” gives visitors an up-close and personal look at these rare creatures.Along with prairie dogs, skate parks, and fishing, Towle Park is also home of the most popular softball and baseball fields in the state of Texas. Towle Park is home to Moffett Field, well-known for its high-quality facilities and grounds. Moffett Field showcases the State of Texas symbol on the field.</p>
+<p> The baseball and softball fields are used throughout the year by both locals and visitors and are available for rental through the Scurry County Parks Department.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The prairie dog town no longer exist.</p>
+</div>

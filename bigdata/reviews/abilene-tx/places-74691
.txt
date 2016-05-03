@@ -1,0 +1,12 @@
+<span itemprop="ratingValue">3.7</span>
+<span itemprop="ratingCount">50 </span>
+<div class="category-list">
+<ul>
+<li><span>Clothing</span></li>
+<li><span>Mall</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Mall of Abilene is the only enclosed regional shopping center that serves an expansive 22-county region West Central Texas known as the Big Country. Built in 1979, we are located at 4310 Buffalo Gap Rd. off of the Winters Frwy. and Hwy. 83/84.
+</p>
+</div>

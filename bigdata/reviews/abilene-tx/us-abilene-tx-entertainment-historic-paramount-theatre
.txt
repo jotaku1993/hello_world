@@ -1,0 +1,17 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>Cinema</span></li>
+<li><span>Local Theater</span></li>
+<li><span>Historic Site</span></li>
+<li><span>Theater</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The Historic Paramount Theatre in Abilene, Texas, is the premiere venue of its kind in West Texas.</p>
+<p>The Paramount Theatre has been the home to a myriad of events including films, concerts, musical productions, opera, dance, private parties and weddings. On the National Register of Historic Places, the building is open for self-guided tours Mon-Fri.</p>
+<p>Built in 1930 by H. O. Wooten, the Paramount is the only structure of its grandeur between El Paso and Fort Worth. The theatre was fully restored and renovated in 1986 and now stands as an icon for the revitalization of the city's downtown district as well as a nostalgic glimpse into our nation's cinematic and theatrical past.
+<br/>Since its creation in 1930, the theatre has been the home to a myriad of events including films, concerts, musical productions, opera, dance, private parties, corporate meetings and spectacular weddings. The building's outstanding techincal facilites and unique atmosphere make it one of the showcase theatres of the Southwest.
+</p>
+</div>

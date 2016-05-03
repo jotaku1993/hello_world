@@ -1,0 +1,16 @@
+<span itemprop="ratingValue">3.0</span>
+<span itemprop="ratingCount">1 </span>
+<div class="category-list">
+<ul>
+<li><span>Other Sporting Facility</span></li>
+<li><span>Rodeo</span></li>
+<li><span>Automotive Attraction</span></li>
+<li><span>Horse Racetrack</span></li>
+<li><span>Speedway</span></li>
+<li><span>Engineering Marvel</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The Big Country Race Way (formerly Abilene Dragstrip) is a 1/8 mile drag strip in located just west of Abilene, Texas on Interstate 20. We are centrally located in west Texas, approximately 180 miles west of Fort Worth.</p>
+<p>We are an IHRA Sanctioned Facility</p>
+</div>

@@ -1,0 +1,49 @@
+<span itemprop="ratingValue">4.6</span>
+<span itemprop="ratingCount">41 </span>
+<div class="category-list">
+<ul>
+<li><span>State Park</span></li>
+<li><span>Hiking Trailhead</span></li>
+<li><span>Historic Site</span></li>
+<li><span>Campground</span></li>
+<li><span>Hiking Area</span></li>
+<li><span>Scenic Point</span></li>
+<li><span>Natural Feature</span></li>
+<li><span>Nature Reserve</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Enchanted Rock State Natural Area consists of 1,643.5 acres on Big Sandy Creek, north of Fredericksburg, on the border between Gillespie and Llano counties. It was acquired by warranty deed in 1978 by the Nature Conservancy of Texas, Inc., from the Moss family. The state acquired it in 1984, added facilities, and re-opened the park in March 1984, but humans have visited here for over 11,000 years. Enchanted Rock was designated a National Natural Landmark in 1970 and was placed on the National Register of Historic Places in 1984. </p>
+<p>The Rock is a huge, pink granite exfoliation dome, that rises 425 feet above ground, 1,825 feet above sea level, and covers 640 acres. It is one of the largest batholiths (underground rock formation uncovered by erosion) in the United States.  Tonkawa Indians believed ghost fires flickered at the top, and they heard weird creaking and groaning, which geologists now say resulted from the rock's heating by day and contracting in the cool night. A conquistador captured by the Tonkawa described how he escaped by losing himself in the rock area, giving rise to an Indian legend of a "pale man swallowed by a rock and reborn as one of their own." </p>
+<p>The Indians believed he wove enchantments on the area, but he explained that the rock wove the spells. "When I was swallowed by the rock, I joined the many spirits who enchant this place." The first well-documented explorations of this area did not begin until 1723, when the Spanish intensified their efforts to colonize Texas. During the mid-1700s, the Spaniards made several trips to the north and northwest of San Antonio, establishing a mission and presidio on the San Saba River and carrying out limited mining on Honey Creek near the Llano River.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Great place for a getaway. My first time was with a youth group, last trip was with my friends. I went primitive camping and it was such a challenge but the trails were nice :) There are so many kinds and its one of the Texas treasures not many people know about. I highly recommend this place but be sure to prepare yourself for the heat and pack your essential needs. This location is a bit far out from any town, so always be prepared! :)</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Are you into mountain/cliff climbing and you are close to Fredericksburg ?</p>
+<p>Then do not miss out the opportunity to climb the enormous pink rock dome that is located above a small stream in Enchanted Rock State Park.</p>
+<p>This rock rises about 325 feet above the ground and is suitable for both amateur (including children above 10) and professional climbers, depending on which side of it you will decide to climb. My advise is to visit this beautiful place during spring or autumn, because we did the mistake to get there in mid June and the temperatures at that period can get very high. The most important thing to have with you, except all the necessary equipment for climbing, is plenty of water. You cannot even imagine how thirsty you can get almost from the mid of your climbing.</p>
+<p>Also, if you like primitive kind of camping then there are some beautiful spots where you can camp. Don't forget to take a camera, because you will have plenty of opportunities for great photos</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Just 20 miles down the road from downtown Fredericksburg is Enchanted Rock State Park. If you're up for a bit of hiking, this state park is no joke. It would be difficult managing this hike with a baby or toddler, because it involves a lot of walking and there's really not much shade, so a summer or early fall hike would be considerably hot. Bring plenty of water though, and even if you just picnic at the park, it's absolutely worth the detour.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>My husband &amp; I went here while visiting his mom in Kerrville. It's a lot of fun, and thankfully the day we went (in November) was not hot - about 60 degrees - and overcast, with some rain sprinkles. If you are not an experienced climber, you can still go straight up the rock on the Summit Trail, but it is very difficult. I had to stop multiple times to catch my breath - which was fine because I was able to take in the amazing sights. Once at the top of the rock, the 360 degree views are unbelievable. We already plan on going back again on our next trip out to Texas, and we'll be taking one of the easier trails.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>So much fun, so beautiful. Great place to camp or visit for the day with your friends or kids, but is insanely hectic in the spring and summer, especially on weekends. If you're going to camp, book in advance because it gets filled up quick. Also, the best campsites (closest to the rock) don't have electricity. All in all, the positives outweigh the negatives and you should go sometime.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Great place to explore and relax with small kids. </p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Must see - steep hike up but well worth it - go early to beat the heat and bring water and a picnic lunch - expect to spend at least 3 hours or more.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Really nice hikes the summit is cool and there's even a cave.  Real bathrooms at parking </p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>One big rock.  lots of trails around for good hiking.  recommended day trip.</p>
+</div>

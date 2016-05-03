@@ -1,0 +1,15 @@
+<span itemprop="ratingValue">3.0</span>
+<span itemprop="ratingCount">1 </span>
+<div class="category-list">
+<ul>
+<li><span>Brewery</span></li>
+<li><span>Restaurant</span></li>
+<li><span>Museum</span></li>
+<li><span>Historic Site</span></li>
+<li><span>Architectural Site</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The Grace Museum maintains a unique position among West Texas attractions. Housed in a historically significant 102 year-old building, The Grace Museum is recognized as an asset for its cultural heritage as well as its educational opportunities. </p>
+<p>Accredited by the American Association of Museums (AAM), The Grace conforms to the highest operational and professional standards. The museum is dear to the people of Abilene, and is respected throughout the state for its outstanding exhibitions and programs.</p>
+</div>

@@ -1,0 +1,17 @@
+<span itemprop="ratingValue">4.0</span>
+<span itemprop="ratingCount">2 </span>
+<div class="category-list">
+<ul>
+<li><span>Historic Site</span></li>
+<li><span>Science Museum</span></li>
+<li><span>Children's Attraction</span></li>
+<li><span>Other Historical</span></li>
+<li><span>Museum</span></li>
+<li><span>Scenic Point</span></li>
+<li><span>Tourist Attraction</span></li>
+<li><span>Science Place</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p> The newly renovated ASU Planetarium now contains the distinctive combination of a Sci-Dome HD digital projector and large tilted dome theater. The Sci-Dome HD projector is capable of projecting more than 500 million stars and celestial objects.  Planetarium renovations were funded by the U.S. Department of Defense.  Located on the first floor in the Vincent Nursing-Physical Science Building, the Planetarium is used as a multimedia immersive classroom for astronomy, physical science and geology courses as well as classes taught through the Center for Security Studies.  The Planetarium is also one of the largest community outreach programs on campus. About 9,700 students of all ages attend viewings at the Planetarium each year. School and public Planetarium programs are scheduled when ASU classes are in session. </p>
+</div>

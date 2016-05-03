@@ -1,0 +1,14 @@
+<span itemprop="ratingValue">3.3</span>
+<span itemprop="ratingCount">3 </span>
+<div class="category-list">
+<ul>
+<li><span>Museum</span></li>
+<li><span>Art Gallery</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Contemporary Art Gallery featuring Artists from the Abilene and surrounding areas. 
+<br/>Admission is free. Is an alternative space providing galleries and studios for working artists.</p>
+<p>Open to the public and family friendly.</p>
+<p></p>
+</div>

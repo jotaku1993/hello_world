@@ -1,0 +1,20 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>Historic Site</span></li>
+<li><span>Other Historical</span></li>
+<li><span>Scenic Point</span></li>
+<li><span>Natural Feature</span></li>
+<li><span>Forest</span></li>
+<li><span>City Park</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Lubbock Lake is located in a meander of an ancient valley, Yellowhouse Draw, near ancient springs. For thousands of years, people on the Southern High Plains used the water resources in the draw until those resources went dry in the early 1930s. Years of sediment covered the traces of human activity from the surface until 1936 when the city of Lubbock dredged the meander in an effort to revitalize the underground springs.  Just minutes from the main campus of Texas Tech University, the 335-acre preserve is just north of North Loop 289 and Clovis Highway (US 84). We are directly west of the Berl Huffman Athletic Complex. Public parking is free.
+<br/>   Lubbock is located on the Southern High Plains of Texas, 300 miles west of Dallas/Fort Worth, and 320 miles southeast of Albuquerque, New Mexico. Access is available from any direction, following many highways, and through the Lubbock's Preston Smith International Airport.   
+</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>A small but well done museum, then walking trails around the site. Really pretty scenery and nice piece of south plains history.</p>
+</div>

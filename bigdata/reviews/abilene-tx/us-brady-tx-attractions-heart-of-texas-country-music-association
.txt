@@ -1,0 +1,13 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>Tourist Attraction</span></li>
+<li><span>Historic Site</span></li>
+<li><span>Music Venue</span></li>
+<li><span>Museum</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Over 100 artists are represented in the museum with stage costumes, musical instruments, autographs, posters and other memorabilia highlighting Country Music's colorful past. Of special interest to various collectors are pieces designed by some of the greatest tailors in the business including Nudie, Harvey Krantz, Nathan Turk among others. The idea for the Heart of Texas Country Music Museum began with our very first collectable piece-a Rose Maddox gold and rhinestone dress made by Nathan Turk. As Rose Maddox stated in the letter with the dress "This dress was worn by Rose Maddox in the 1950's and was designed by Nathan Turk Rodeo Tailor. It is the last one that I have."</p>
+</div>

@@ -1,0 +1,15 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>Cottage / Cabin</span></li>
+<li><span>Vacation Rental</span></li>
+<li><span>Forest</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>   Welcome to LaMancha Lake Ranch located on  beautiful Lake Leon in Eastland County, Texas. We offer cabin rentals ranging from simple one room units to a stylish 2-story structure with two living areas, or for the rv’ers, the perfect hookups.        
+<br/>Drive through our gates and take a look around. You might just find that perfect spot  for a weekend getaway with that special person or the family, or for that week long family reunion!</p>
+<p>Lake Leon offers plenty of fun on the water whether fishing, skiing, paddle boats or watercraft, this year we have plenty of water. </p>
+<p>If you were anywhere in Texas during the summer of 2011 you know the state had the worst drought and heat in history. Hopefully that’s gone.   </p>
+</div>

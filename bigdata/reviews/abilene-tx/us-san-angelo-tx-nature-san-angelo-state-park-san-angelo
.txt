@@ -1,0 +1,22 @@
+<span itemprop="ratingValue">4.3</span>
+<span itemprop="ratingCount">3 </span>
+<div class="category-list">
+<ul>
+<li><span>Other Outdoor Place</span></li>
+<li><span>Government Building</span></li>
+<li><span>Nature Reserve</span></li>
+<li><span>Hiking Area</span></li>
+<li><span>Natural Feature</span></li>
+<li><span>Scenic Point</span></li>
+<li><span>City Park</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Activities include camping; picnicking; hiking, mountain biking and horseback riding on multiuse trails; lake swimming and wading; fishing; boating; a three-level orienteering course; and bird and wildlife observation. The park has a hunting program with a State Park Annual Hunting Permit and special drawing hunts for deer and spring turkey. The presence of American Indian rock art, ancient animal tracks, and majestic bison add a prehistoric touch to this park. San Angelo State Park is also home to the Official Texas State Longhorn Herd.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Amazing!!!!!!!!!!! And staff are so kind and helpful.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Great Park, Lots were large. Restroom was clean.  Bison and Longhorn tour was amazing. Lots of Wildlife and not to far from the City.</p>
+</div>

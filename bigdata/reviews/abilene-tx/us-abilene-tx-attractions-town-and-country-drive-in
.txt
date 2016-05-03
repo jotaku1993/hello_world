@@ -1,0 +1,15 @@
+<span itemprop="ratingValue">4.0</span>
+<span itemprop="ratingCount">1 </span>
+<div class="category-list">
+<ul>
+<li><span>Restaurant</span></li>
+<li><span>Cinema</span></li>
+<li><span>Children's Attraction</span></li>
+<li><span>Drive-in Movie Theater</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p> The Town &amp; Country Drive-In opened in 1956. It was constructed at a cost of over $250,000. At the time it was the largest drive-in in Texas accomadating 1500 cars.  It had four incoming traffic lanes and boasted a roof top garden area over the concession stand. The garden had about 200 seats if you preferred to sit up there instead of in your car. It had a massive playground for the children including an electric ferris wheel.  It closed in 1981 and remained closed until it was resurrected in 2000. It is open year round with double features. Audio is provided on DTS FM stereo radio. Admission is $5 per person 12 and up and $2.50 for children 6-11. 
+<br/>Due To Changes In our Film Company License agreement - We CAN NOT split the admission ticket between the two screens. This means: NO SWITCHING or VIEWING of the opposite screen.
+</p>
+</div>

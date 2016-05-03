@@ -1,0 +1,15 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>Campground</span></li>
+<li><span>Forest</span></li>
+<li><span>Fishing Spot</span></li>
+<li><span>Water Sports</span></li>
+<li><span>Nature Reserve</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The park offers an atmosphere of rustic beauty and tranquility, with miles of shoreline where wildflowers, white-tailed deer, ducks, raccoons, armadillos, squirrels and birds can be observed in a natural setting. Popular fish include crappie, perch, catfish and bass.</p>
+<p>The park lies in an area of mixed habitats. The plants and animals of this area are a combination of species from the Edwards Plateau and Grand Prairie to the south and east, the Western Cross Timbers to the north, and the Rolling Plains to the west. Typical vegetation for the Edwards Plateau is grassland with live oak on level to gently rolling terrain, but slopes and stream bottoms are generally wooded or brushy. The Western Cross Timbers usually supports woodlands of dwarfed post oak and blackjack oak.The Rolling Plains supports grasslands with shrubby vegetation growing on the rougher sites; woody plants usually grow along river bottoms. These three vegetation regions of Texas overlap around Lake Brownwood, making the park an excellent place to study the area’s natural diversity.</p>
+</div>

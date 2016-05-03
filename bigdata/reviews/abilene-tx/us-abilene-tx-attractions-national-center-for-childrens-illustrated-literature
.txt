@@ -1,0 +1,15 @@
+<span itemprop="ratingValue">4.0</span>
+<span itemprop="ratingCount">1 </span>
+<div class="category-list">
+<ul>
+<li><span>Museum</span></li>
+<li><span>Children's Attraction</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The NCCIL enhances visual and verbal literacy by celebrating the best original art published in children's literature.</p>
+<p>The National Center for Children's Illustrated Literature (NCCIL, Pronounced Nickle), located in Abilene, Texas, was established with a conviction and purpose of celebrating the best original art published in children's literature. The NCCIL collaborates with award-winning artists to produce exhibitions of their artwork that are distinctive, appealing to museum visitors of all ages, and of the highest quality. In addition to this unique artistic partnership, following its debut at the NCCIL gallery each exhibition travels to museums, public libraries, and galleries nationwide. </p>
+<p>The NCCIL hosts FREE Family Fun art workshops on Saturday afternoons, summer art camps and has an extensive docent-led school tour program. NCCIL was begun through the effort of former Mayor Gary D. McCaleb, an administrator at Abilene Christian University. In December 1993, former Abilene mayor Dr. Gary McCaleb was invited to a local elementary school to read William Joyce’s Santa Calls. Inspired to learn that Joyce had set his story in Abilene, Dr. McCaleb invited Joyce to speak at a Cultural Affairs Council luncheon and when the two men met, they formed an immediate friendship. From this meeting a concept originated of a place that would honor the artwork of children’s illustrators. </p>
+<p>In March 1997, the National Center for Children’s Illustrated Literature was incorporated as a non-profit organization, and a statue depicting the children from Santa Calls, “Childhood‘s Great Adventure“ by Rick Jackson, was erected downtown. The Junior League of Abilene became the major sponsor and on September 14, 2000, the beautifully renovated Rhodes Building, circa 1920’s, was opened to the public.
+</p>
+</div>

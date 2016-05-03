@@ -1,0 +1,39 @@
+<span itemprop="ratingValue">4.6</span>
+<span itemprop="ratingCount">17 </span>
+<div class="category-list">
+<ul>
+<li><span>Community Park</span></li>
+<li><span>Photo Op</span></li>
+<li><span>Folk Art</span></li>
+<li><span>Scenic Point</span></li>
+<li><span>Tourist Attraction</span></li>
+<li><span>Roadside Attraction</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The Fort Worth Water Gardens is a beautiful and refreshing oasis located downtown, adjacent to the Fort Worth Convention Center. Designed by Phillip Johnson, the Water Gardens is an architectural and engineering marvel to be enjoyed any time of the year. Visitors can experience a variety of water features as they wander through this relaxing urban plaza. The park features three pools of water: the aerating, the quiet and the active pool. Escape to a shady sanctuary where the serene quiet pool is the perfect spot to take in the beautiful outdoor nature and relax in Fort Worth.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Beautiful place, and everything around it was amazing ! I really enjoyed my stay at Fort Worth. </p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Perfect trip if you just want to get equanimity and grab something to eat. There are a couple of really good restaurants across the street that smell amazing! Plus a little pub. Sunset is beautiful.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Cool place to stop. Nice and relaxing. We let the kids loose, a little, and they climbed all over the place. It's more than just the water, there are places to climb up and down, or you can just stroll through.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Beautiful and relaxing.  Down the street from dining areas.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>If you visit Fort Worth then you really have to visit the Water Gardens! The people that created this place must be geniuses, it is one of the most relaxing places I have ever been at! It is a piece of art in the middle of the city. We visited the Water Gardens with my husband in the afternoon and I think that’s the best hour of the day to tour this place. It is also free, so it’s one of the “must see” places in the area.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>We got here early (9:30am) on a Saturday morning and we were among no more than 5 people in the whole gardens. It was interesting and of course free so well worth the stop. It was very peaceful at the time we visited. </p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Unbelievable! This is a must see. It's free and one of the coolest things we've seen. </p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>If you're in Fort Worth you MUST stop and visit the Water Garden. It's stunning!!!!!</p>
+</div>

@@ -1,0 +1,13 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>Concert Hall</span></li>
+<li><span>Nightlife Spot</span></li>
+<li><span>Music Venue</span></li>
+<li><span>Bar</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>    The ONLY club in Abilene with a DIFFERENT party every night! The lucky mule is the ONLY bar if you want to have a good time... but seriously, just go to the lucky mule dude. I mean really why debate about it... just go.</p>
+</div>

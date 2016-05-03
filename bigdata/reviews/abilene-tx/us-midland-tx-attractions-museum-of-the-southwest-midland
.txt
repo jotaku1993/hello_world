@@ -1,0 +1,15 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>Science Museum</span></li>
+<li><span>Tourist Attraction</span></li>
+<li><span>Science Place</span></li>
+<li><span>Museum</span></li>
+<li><span>Art Gallery</span></li>
+<li><span>Children's Attraction</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The Museum of the Southwest seeks to excite the senses through discovery in art, culture and science. The Museum of the Southwest is comprised of an Art Museum, a Children’s Museum, a state of the art Planetarium, and Sculpture Park.</p>
+</div>

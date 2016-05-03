@@ -1,0 +1,14 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>History Museum</span></li>
+<li><span>Historic Site</span></li>
+<li><span>Art Gallery</span></li>
+<li><span>Museum</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Original paintings and prints by noted cowboy artists; farm and ranch artifacts from early 20th century, including living room/kitchen and blacksmith shop. 
+</p>
+</div>

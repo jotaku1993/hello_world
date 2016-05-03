@@ -1,0 +1,14 @@
+<span itemprop="ratingValue">5.0</span>
+<span itemprop="ratingCount">1 </span>
+<div class="category-list">
+<ul>
+<li><span>Hiking Area</span></li>
+<li><span>Scenic Point</span></li>
+<li><span>Nature Reserve</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Dramatic views off of the 200-foot bluff and from the CCC-built loop road is one of the featured attractions of this 382-acre park. Early morning or sunset, joggers, walkers and cyclists circle the loop, enjoying these views as they exercise. An elaborate Fourth of July fireworks display is one of the largest in the region. Other activities include picnicking, nature study and sightseeing.</p>
+<p> Big Spring State Park is 381.99 acres located within the city limits of Big Spring in Howard County. Both city and park were named for a natural spring that was replaced by an artificial one. The park was deeded by the City of Big Spring in 1934 and 1935, and was opened in 1936.</p>
+<p>Comanches and earlier Indian groups frequently visited the park area in the past, probably attracted by the permanent source of spring water. Spaniards may have first visited the area as early as 1768. However, the first recorded mention of the spring is from an October 3, 1849, entry in the journal of Capt. R.B. Marcy of the U.S. Cavalry on his return excursion from Santa Fe, New Mexico, to Fort Smith, Arkansas. Other visitors to the park and spring include cattle drovers and immigrants moving to new territories, as can be seen by carvings they left behind (circa 1917, turn of the century). Today the City of Big Spring occupies the area and is involved in several businesses such as agriculture, tourism and the refining of petroleum. Nearby, Interstate 20 transports high volumes of traffic east and west across Texas. </p>
+</div>

@@ -1,0 +1,17 @@
+<span itemprop="ratingValue">3.5</span>
+<span itemprop="ratingCount">11 </span>
+<div class="category-list">
+<ul>
+<li><span>Cinema</span></li>
+<li><span>Science Museum</span></li>
+<li><span>Local Theater</span></li>
+<li><span>Tourist Attraction</span></li>
+<li><span>Children's Attraction</span></li>
+<li><span>Science Place</span></li>
+<li><span>Theater</span></li>
+<li><span>Museum</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>    Whether you're 5 or 95, discoveries await you at the Science Spectrum Museum and OMNI Theater! With over 250 hands-on science exhibits, the giant screen OMNI Theater or the live science shows, it's the perfect place for the explorer in all of us!             </p>
+</div>

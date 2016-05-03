@@ -1,0 +1,28 @@
+<span itemprop="ratingValue">3.9</span>
+<span itemprop="ratingCount">15 </span>
+<div class="category-list">
+<ul>
+<li><span>Photo Op</span></li>
+<li><span>Folk Art</span></li>
+<li><span>Roadside Attraction</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Frontier Texas is calling their newest 4,000 pound outdoor sculpture the "world's largest buffalo skull". Related City of Abilene garbage truck driver who struck, killed... Bangs plans to install new water meters Experts weigh in on the best educational toys for kids... Anthony Domol: Weather remains quiet into midweek IMPORTANT: KTXS responds to DISH Network's distorted claims The distance from one tip of the buffalo horn to the next curves a span of 26 feet. It was designed so that children could crawl inside through the eyes of the skull. "It's still a piece of art," said Jeff Salmon, Executive Director of Frontier Texas. "It's not exactly to the level of a piece of playground equipment so it's not exactly perfect for kids but we believe it is safe to climb through and climb out of.</p>
+<p>Make this a stop on your US 83 "road to nowhere" road trip. If this giant skull isn't an ominous reminder of how desolate this stretch of road is, I don't know what is.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Very nice! Located at the Frontier Texas Visitor's Center.  Beautiful facility, bathrooms, a museum and travel brochures for the entire state and New Mexico. Lots if fun photo oops!</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Photo op! It might not be a longhorn, but a picture posing with this roadside oddity will make for a great memento of your trip through the plains.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>We came here at night so it was hard to see, but still fun as you can climb on top/through the skull. Great photo op! The street that it's on also houses a lot of other interesting looking buildings. I wish we had driven through here during the day. </p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>If there is one thing you do in Abilene please visit.  Great museum wish we had longer.  Plan an hour and don't for get the photo by the skull outside.  </p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>This was really cool to stop and see!!</p>
+</div>

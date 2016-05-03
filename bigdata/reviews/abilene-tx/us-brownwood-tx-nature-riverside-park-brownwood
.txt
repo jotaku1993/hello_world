@@ -1,0 +1,17 @@
+<span itemprop="ratingValue">4.0</span>
+<span itemprop="ratingCount">1 </span>
+<div class="category-list">
+<ul>
+<li><span>Natural Feature</span></li>
+<li><span>Scenic Point</span></li>
+<li><span>City Park</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>This is no longer accessible as the road is completely dimolished</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Riverside Park - 46.43 acres adjacent to Pecan Bayou on Riverside Park Drive (off E. Commerce). Large Playground Area, Sand Volleyball Court, Boat Ramp, Nature Trail, Picnic Tables, BBQ Pits, Restroom Facilities, Large Pavilion that will seat 240 with a 720 sq in open grill, and RV Hookups. In 2005 the Recreation Trails Program of the Texas Parks &amp; Wildlife Department help fund the one mile by 8 foot wide concrete walking trail, the 7/10th of a mile nature trail, and new restrooms. </p>
+<p>The Havins unit helped with in-kind labor. The Pavilion or RV Hookups may be reserved by calling Adams Street Community Center at 325-646-0146. In addition to the sidewalk trail around the entire main park, the 7/10ths mile nature trail is at the far end of the park and is clearly marked. You can see the entire main park at street level in Google maps by choosing Satellite option and moving the little man over onto Riverside Park Drive. 
+</p>
+</div>

@@ -1,0 +1,16 @@
+<span itemprop="ratingValue">3.0</span>
+<span itemprop="ratingCount">1 </span>
+<div class="category-list">
+<ul>
+<li><span>History Museum</span></li>
+<li><span>Towns</span></li>
+<li><span>Museum</span></li>
+<li><span>Historic Site</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>I went here with my grandmother quite a few times when I was a child and had a fantastic time! There was also the white buffalo outside of Buffalo Gap but I heard he's been moved since then. It's preserved wonderfully. My favorite parts were the chapel and the doctors office. A definite must-see, especially if you have children!</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The Historic Village is a unique collection of historic buildings filled with artifacts from historic West Texas. Our mission is to interpret the last fifty years (1875-1925) of the history of the Texas frontier. We employ a variety of interpretive programs, including static exhibits, historic structures, and living history interpreters to extend and accomplish that goal. Come visit us in scenic Buffalo Gap, Texas!</p>
+</div>

@@ -1,0 +1,13 @@
+<span itemprop="ratingValue">3.0</span>
+<span itemprop="ratingCount">1 </span>
+<div class="category-list">
+<ul>
+<li><span>Military Site</span></li>
+<li><span>City Park</span></li>
+<li><span>Monument</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>
+Featuring artillery equipment from Japan, Germany and the United States, this 8.71-acre memorial park honors the role the United States military played in the history and development of Brownwood, Texas. A picnic table and two practice baseball/softball fields are also available. </p>
+</div>

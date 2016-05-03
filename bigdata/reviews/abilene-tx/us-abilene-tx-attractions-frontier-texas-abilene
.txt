@@ -1,0 +1,20 @@
+<span itemprop="ratingValue">4.0</span>
+<span itemprop="ratingCount">3 </span>
+<div class="category-list">
+<ul>
+<li><span>History Museum</span></li>
+<li><span>Other Amusement</span></li>
+<li><span>Museum</span></li>
+<li><span>Historic Site</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Located in historic downtown Abilene, Frontier Texas is a western heritage center that allows visitors to relive the Old West with the help of state-of-the-art technology. Frontier Texas brings the frontier to life and lets visitors meet people who played out their lives on the Texas frontier. Frontier Texas also serves as the official visitor center for Abilene and the Texas Forts Trail Region. </p>
+<p>NEW EXHIBITS ARE NOW OPEN! "Blood &amp; Treasure on the Frontier" features a new high definition, surround-sound welcome theater. The new "Early Texas" exhibit area showcases the natural history of the region including artifacts, interactive discovery stations and beautiful large murals by local artist HC Zachry and much more.</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>This museum is very informative about the history of Abilene and Texas! It was recently remodeled as well, and it looks great!</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Ever wondered what it was like to live in the Wild West? Apparently it wasn't all drinking whiskey while watching can-can dancers and gunfights in the street all the time-- living in Texas in the 19th century was hard work, and you'll learn all about it here at this interactive, hands-on museum.</p>
+</div>

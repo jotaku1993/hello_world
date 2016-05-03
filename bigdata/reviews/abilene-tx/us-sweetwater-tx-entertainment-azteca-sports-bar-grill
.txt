@@ -1,0 +1,14 @@
+<span itemprop="ratingValue">4.0</span>
+<span itemprop="ratingCount">1 </span>
+<div class="category-list">
+<ul>
+<li><span>Sports Bar</span></li>
+<li><span>Mexican Food</span></li>
+<li><span>Local Dining</span></li>
+<li><span>Bar</span></li>
+<li><span>Nightlife Spot</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>We are Sweetwater’s premier entertainment venue. If you’re considering playing in the area, or maybe looking for a place to play as you pass through, this is it! To contact us about booking your national, regional, or local band at Azteca Nightclub. </p>
+</div>

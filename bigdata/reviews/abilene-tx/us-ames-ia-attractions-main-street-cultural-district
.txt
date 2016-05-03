@@ -1,0 +1,12 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>Handmade Goods</span></li>
+<li><span>Art Gallery</span></li>
+<li><span>Tourist Attraction</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>The Main Street Cultural District is home to more than 50 locally owned specialty retail shops; art galleries; and restaurants in the heart of a Main Street Iowa community. Plan a trip during one of our annual events: ArtWalk; Fourth of July Parade and Festival; Octagon Art Festival; and Holiday Open House. Group tours available; including chocolate and brewery tours; cooking and floral demonstrations and more. Wireless Internet at some locations.</p>
+</div>

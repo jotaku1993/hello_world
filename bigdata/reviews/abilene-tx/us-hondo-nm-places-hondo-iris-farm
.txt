@@ -1,0 +1,11 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>Scenic Point</span></li>
+<li><span>City Park</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>One of New Mexico’s most beautiful gardens: over 400 varieties of prize winning bearded Iris, a hummingbird porch, a pond with a fountain, picnic tables, a wooded area and a gallery in a 100 year old adobe building. This year there is a newly developed botanical garden; guided tours are available featuring native vegetation.. The garden is in bloom with lilies, peonies, roses and blossoming bushes. Children and pets welcome, free admission</p>
+</div>

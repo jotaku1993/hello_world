@@ -1,0 +1,19 @@
+No_ratings
+0
+<div class="category-list">
+<ul>
+<li><span>Music Venue</span></li>
+<li><span>Tourist Attraction</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Texas' Oldest Outdoor Musical ~Performed in Albany, Texas</p>
+<p>Come to help us Celebrate 75 Exciting years spent telling the Northwestern Texas Frontier Story.  Relive the days of the Indians who roamed the prairie, the Settlers who moved ever west with their herds of Longhorns, the Military who protected them all, and the Civilization they created.</p>
+<p>Fandangle is Texas Oldest Outdoor Musical/Dramatic Show.  Presented in a large Prairie Theater with covered wagons, buggies, and a replica of the first Texas Central Train, there are galloping prairie fires, oversized rattlesnake, frontier town, and first oil discovery.  300 Albany performers authentically present the look and feel of the Old West told with fun and humor.</p>
+<p>The Fandangle is performed every year on Thursday, Friday and Saturday
+<br/>of the last two weekends in June.
+</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Amazing fun. Lots of action and humor. Really enjoyed.</p>
+</div>

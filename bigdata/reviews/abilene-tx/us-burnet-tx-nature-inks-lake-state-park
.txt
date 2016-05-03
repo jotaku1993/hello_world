@@ -1,0 +1,23 @@
+<span itemprop="ratingValue">3.8</span>
+<span itemprop="ratingCount">13 </span>
+<div class="category-list">
+<ul>
+<li><span>State Park</span></li>
+<li><span>Forest</span></li>
+<li><span>Nature Reserve</span></li>
+<li><span>Scenic Point</span></li>
+<li><span>Campground</span></li>
+<li><span>Hiking Area</span></li>
+</ul>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Visitors enjoy camping, backpacking, and hiking. Since Inks Lake stays at a constant level, droughts do not affect water-related activities such as lake swimming (unsupervised beach), boating, water skiing, scuba diving and fishing. Chris's Landing Grill offers fresh food and coffee, inside the park.</p>
+<p>Tours and guided activities include nature walks, geology hikes, fish seining, lakeshore ecology, Junior Ranger programs, and the Devil's Waterhole Canoe Tour. Check the calendar of events for dates and other information.
+</p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>One of the most beautiful hikes I have taken around the devil's waterhole - nice camping, good size sites, several lakefront sites, several close restrooms...all good. Another state recreation area 5 miles away with a tower and good views for a quick visit is nice too and can see a castle on the way to it. </p>
+</div>
+<div class="review-text" itemprop="reviewBody">
+<p>Beautiful State Park with amazing views, great facilities and lots of opportunities to hike, fish or kayak.</p>
+</div>
