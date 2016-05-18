@@ -1,0 +1,38 @@
+class Solution(object):
+    def longestConsecutive(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        l = len(nums)
+        if l == 0:
+            return 0
+        if l == 1:
+            return 1
+            
+        existDict = {}
+        for i in range(l):
+            if nums[i] not in existDict:
+                existDict[nums[i]] = None
+        visitDict = {}
+        maxLen = 1
+        #print l
+        
+        for i in range(l):
+            if nums[i] in visitDict:
+                continue
+            count = 1
+            left = nums[i] - 1
+            #print existDict, visitDict
+            while(left in existDict):
+                visitDict[left] = None
+                count += 1
+                left -= 1
+            right = nums[i] + 1
+            while(right in existDict):
+                visitDict[right] = None
+                count += 1
+                right += 1
+            maxLen = max(maxLen, count)
+            
+        return maxLen
